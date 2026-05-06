@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "TupakkaSaakeli.aternos.me:24787",
+    "port":24787,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
