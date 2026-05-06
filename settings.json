@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "password": "D123456",
+    "type": "online"
   },
   "server": {
     "ip": "TupakkaSaakeli.aternos.me",
     "port": 24787,
-    "version": "",
+    "version": "26.1.2 (2585)",
     "try-creative": false
   },
   "position": {
