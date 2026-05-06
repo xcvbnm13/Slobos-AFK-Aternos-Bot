@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "Online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "TupakkaSaakeli.aternos.me:24787",
     "port": 27586,
     "version": "",
     "try-creative": false
